@@ -1,5 +1,7 @@
 # Gesture-Recognition-with-CNNs
 
+Download the data set from the following link:http://web.csie.ndhu.edu.tw/ccchiang/Data/All_gray_1_32_32.rar
+
 Method Description and Comparing with Hyperparameters and Model Architectures
 ---
 ***In the intial setting, I constructed the model with two sequences of network, including a convolution layer, a activation function , a pooling layer in each sequence.***
